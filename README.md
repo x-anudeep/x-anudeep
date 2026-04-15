@@ -2,25 +2,24 @@
 <h4 align="center">AI/Backend Software Engineer | Distributed Systems | LLMs & Agentic Workflows</h4>
 
 <p align="center">
-Building scalable backend systems and AI-native applications with a focus on real-world impact 🚀
+Building scalable backend systems and AI-native applications 🚀
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Science @ Arizona State University (Graduating May 2026)
-- 🤖 Focused on **AI systems, LLMs, and agent-based architectures**
-- ⚙️ Experienced in **backend engineering, microservices, and cloud-native systems**
-- 🏆 Hackathon Winner – Built an AI-powered ordering assistant
-- 📍 Based in the United States
+- 🎓 Computer Science @ Arizona State University (May 2026)
+- 🤖 Focused on AI systems, LLMs, RAG, and agent architectures
+- ⚙️ Backend engineer working on scalable microservices & cloud systems
+- 🏆 Hackathon Winner – Built AI-powered retail assistant
+- 📍 United States
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-anudeep&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-anudeep&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-anudeep&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ---
@@ -34,10 +33,9 @@ Building scalable backend systems and AI-native applications with a focus on rea
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
 </p>
 
-#### 🤖 AI / ML
+#### 🤖 AI Systems
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-<span>LLMs · RAG · LangChain · Prompt Engineering</span>
+LLMs · RAG · LangChain · Prompt Engineering
 </p>
 
 #### ⚙️ Backend & Systems
@@ -54,7 +52,7 @@ Building scalable backend systems and AI-native applications with a focus on rea
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/>
 </p>
 
-#### 🗄️ Data & Storage
+#### 🗄️ Data
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
@@ -65,17 +63,10 @@ Building scalable backend systems and AI-native applications with a focus on rea
 
 ### 🔥 Featured Projects
 
-- 🤖 **Multi-Agent Intelligence Engine**  
-  Built a LangGraph-based system with policy routing, tool orchestration, and observability  
-
-- 📚 **Enterprise RAG + Evaluation Framework**  
-  Hybrid retrieval system with automated evaluation using RAGAS  
-
-- ⚙️ **AI-Native Microservice Platform**  
-  Scalable FastAPI service deployed on Kubernetes with Terraform  
-
-- 🌐 **Enterprise LLM Gateway**  
-  Unified abstraction layer for multiple LLM providers with intelligent routing  
+- 🤖 Multi-Agent Intelligence Engine  
+- 📚 Enterprise RAG + Evaluation Framework  
+- ⚙️ AI-Native Microservice Platform  
+- 🌐 Enterprise LLM Gateway  
 
 ---
 
@@ -94,5 +85,7 @@ Building scalable backend systems and AI-native applications with a focus on rea
 </p>
 
 ---
+
+### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/x-anudeep/x-anudeep/output/snake.svg" alt="Snake animation" />
