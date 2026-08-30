@@ -85,7 +85,8 @@ LLMs · RAG · LangChain · Prompt Engineering
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/x-anudeep/x-anudeep/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/x-anudeep/x-anudeep/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
