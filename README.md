@@ -18,9 +18,11 @@ Building scalable backend systems and AI-native applications 🚀
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-anudeep&layout=compact&theme=dracula" height="150"/>
-</div>
+<p align="center">
+  <a href="https://github.com/x-anudeep?tab=repositories">
+    View my latest repositories →
+  </a>
+</p>
 
 ---
 
