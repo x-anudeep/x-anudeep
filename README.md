@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anudeep Cherukupalli and I'm an AI/Backend Software Engineer, from the United States.</h2>
+<h2 align="left">Hi 👋! My name is Anudeep Cherukupalli and I'm an AI/Backend Software Engineer.</h2>
 
 <br>
 
