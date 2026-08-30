@@ -121,4 +121,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/x-anudeep/x-anudeep/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/x-anudeep/x-anudeep/output/snake.svg" alt="Snake animation" />
