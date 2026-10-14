@@ -121,4 +121,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/x-anudeep/x-anudeep/output/snake.svg" alt="Snake animation" />
